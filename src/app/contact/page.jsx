@@ -11,20 +11,11 @@ import { motion } from "framer-motion";
 
 const info = [
     {
-        icon: <FaPhoneAlt />,
-        title: "Phone",
-        description: "(+234) 916 387 7951",
-    },
-    {
         icon: <FaEnvelope />,
         title: "Email",
         description: "grantt.3ia@gmail.com",
     },
-    {
-        icon: <FaMapMarkerAlt />,
-        title: "Address",
-        description: "Lagos, Nigeria",
-    },
+
 ];
 
 const Contact = () => {

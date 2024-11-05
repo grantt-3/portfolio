@@ -17,11 +17,7 @@ const about = {
     info: [
         {
             fieldName: "Name",
-            fieldValue: "Grant Agulue",
-        },
-        {
-            fieldName: "Phone",
-            fieldValue: "(+234) 916 387 7951",
+            fieldValue: "Grant",
         },
         {
             fieldName: "Experience",
@@ -29,11 +25,7 @@ const about = {
         },
         {
             fieldName: "Email",
-            fieldValue: "grantt.3ia@gmail.com",
-        },
-        {
-            fieldName: "Nationality",
-            fieldValue: "Nigerian",
+            fieldValue: "justt1vona@gmail.com",
         },
         {
             fieldName: "Languages",
